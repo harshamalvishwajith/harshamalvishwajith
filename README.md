@@ -90,7 +90,7 @@ const aboutMe = {
 </a>
 
 <a href="https://github.com/it22219916/myportfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=myportfolio&theme=radical" />
 </a>
 
 </div>
