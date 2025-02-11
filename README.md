@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergraduate+Software+Engineer;3rd+Year+Student+at+SLIIT)](https://harshamal.me)
 
-  [![Git](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/it22219916)
+  [![Git](https://img.shields.io/github/followers/it22219916?label=Follow&style=social)](https://github.com/it22219916)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshamal-vishwajith/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
   
