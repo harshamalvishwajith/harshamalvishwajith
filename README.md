@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Harshamal Gunathilaka]
 
-## 🌟 Cloud Architect & DevOps Engineer
+## 🌟 Undergraduate Software Engineer
 
 ```javascript
 const aboutMe = {
@@ -65,7 +65,7 @@ const aboutMe = {
 ### 🌟 Featured Projects
 
 <a href="https://github.com/it22219916/course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=YOUR_REPO_NAME&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
 </a>
 
 ### 💡 Open to Collaborate!
