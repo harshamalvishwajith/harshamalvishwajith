@@ -91,12 +91,12 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 </div>
 
-### 💡 Open to Collaborate!
+### 💼 Open to Work!
 
-- 🔭 I'm currently working on Full-Stack Developing
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about Full-Stack Developing
-- 📫 How to reach me: [Whatsapp](https://wa.me/94766583229)
+- 🔭 I'm currently seeking opportunities in Full-Stack Development  
+- 👯 Looking to collaborate on exciting projects  
+- 💬 Ask me about Full-Stack Development and Software Engineering  
+- 📫 How to reach me: [WhatsApp](https://wa.me/94766583229)  
 
 ---
 ⭐️ From [it22219916](https://github.com/it22219916)
