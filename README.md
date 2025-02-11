@@ -89,6 +89,10 @@ const aboutMe = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
 </a>
 
+<a href="https://github.com/it22219916/myportfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
+</a>
+
 </div>
 
 ### 💡 Open to Collaborate!
