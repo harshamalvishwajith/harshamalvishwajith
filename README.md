@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Harshamal Gunathilaka]
 
 ## 🌟 Cloud Architect & DevOps Engineer
 
@@ -58,23 +58,22 @@ const aboutMe = {
 
 ## 🤝 Connect & Collaborate
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://harshamal.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshamal-vishwajith)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
 
 ### 🌟 Featured Projects
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/it22219916/course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=YOUR_REPO_NAME&theme=radical" />
 </a>
 
 ### 💡 Open to Collaborate!
 
-- 🔭 I'm currently working on cloud-native applications and DevOps automation
+- 🔭 I'm currently working on Full-Stack Developing
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about Cloud Architecture, DevOps, and System Design
-- 📫 How to reach me: [Your preferred contact method]
+- 💬 Ask me about Full-Stack Developing
+- 📫 How to reach me: [Whatsapp](https://wa.me/94766583229)
 
 ---
-⭐️ From [Your Username](https://github.com/it22219916)
+⭐️ From [it22219916](https://github.com/it22219916)
