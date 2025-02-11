@@ -24,6 +24,7 @@ const aboutMe = {
 
 ## 🔧 Tech Arsenal
 
+<div align="center">
 ### Web Technologies
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,23 +61,33 @@ const aboutMe = {
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+</div>
+
 ## 📊 GitHub Analytics
+
+<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=it22219916&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22219916&layout=compact&theme=radical" alt="Top Languages" />
 
+</div>
+
 ## 🤝 Connect & Collaborate
 
+<div align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://harshamal.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshamal-vishwajith)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
+</div>div>
 
 ### 🌟 Featured Projects
 
+<div align="center">
 <a href="https://github.com/it22219916/course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
 </a>
+</div>
 
 ### 💡 Open to Collaborate!
 
