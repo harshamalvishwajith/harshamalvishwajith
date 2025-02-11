@@ -12,15 +12,13 @@
 </div>
 
 
-```javascript
-const aboutMe = {
-    Name: "Harshamal Gunathilaka",
-    role: "Undergraduate Software Engineer",
-    location: "Sri Lanka 🇱🇰",
-    passions: ["Full-Stack Develop", "Graphic Design"],
-    currentlyLearning: "Always exploring new technologies 🚀"
-};
-```
+---
+
+### 👨‍💻 About Me
+
+Innovative undergraduate software developer with a strong foundation in Information Technology. Proficient in Next-js, MERN stack, Java, HTML, CSS, JS, MS SQL, Python, C, C++, and Figma. Known for creative problem-solving. leadership, and effective project management. Skilled in teamwork, time management, and critical thinking. Seeking opportunities to leverage skills and knowledge in a dynamic, challenging software engineering environment.
+
+---
 
 ## 🔧 Tech Arsenal
 
