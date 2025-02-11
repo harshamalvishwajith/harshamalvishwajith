@@ -62,10 +62,17 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=it22219916&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22219916&layout=compact&theme=radical" alt="Top Languages" />
 
+</div>
 
 ## 🤝 Connect & Collaborate
 
@@ -87,6 +94,14 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 <a href="https://github.com/it22219916/myportfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=myportfolio&theme=radical" />
+</a>
+
+<a href="https://github.com/it22219916/BookReviewWebApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=BookReviewWebApp&theme=radical" />
+</a>
+
+<a href="https://github.com/it22219916/ccmm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=ccmm&theme=radical" />
 </a>
 
 </div>
