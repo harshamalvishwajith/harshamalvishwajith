@@ -87,6 +87,10 @@ Innovative undergraduate software developer with a strong foundation in Informat
 ### 🌟 Featured Projects
 
 <div align="center">
+  
+<a href="https://github.com/it22219916/course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
+</a>
 
 <a href="https://github.com/it22219916/myportfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=myportfolio&theme=radical" />
