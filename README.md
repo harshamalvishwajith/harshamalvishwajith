@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Undergraduate+Student+%40+SLIIT;Full-Stack+Developer;Software+Engineering+Undergraduate)](https://harshamal.me)
 
-
-
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  alt="c" width="400" />
-
-<div height="600">
 
 ### 💼 Open to Work!
 
@@ -24,8 +20,7 @@
 
 </div>
 
-</div>
-<br>
+<br clear="right"/>
 
 ---
 
