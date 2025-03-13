@@ -1,22 +1,31 @@
 # Harshamal Gunathilaka
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergraduate+Software+Engineer;3rd+Year+Student+at+SLIIT)](https://harshamal.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Undergraduate+Student+%40+SLIIT;Full-Stack+Developer;Software+Engineering+Undergraduate)](https://harshamal.me)
 
-  [![Git](https://img.shields.io/github/followers/harshamalvishwajith?label=Follow&style=social)](https://github.com/harshamalvishwajith)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshamal-vishwajith/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=harshamalvishwajith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+
+<img align="right"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  alt="c" width="400" />
+
+<div height="600">
+
+### 💼 Open to Work!
+
+- 🔭 I'm currently seeking opportunities in Full-Stack Development  
+- 👯 Looking to collaborate on exciting projects  
+- 💬 Ask me about Full-Stack Development and Software Engineering  
+- 📫 Get to know me: [harshamal.me](https://harshamal.me)
+
+<div align="center">
+ 
+
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://harshamal.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshamal-vishwajith)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
+
 </div>
 
-
----
-
-### 👨‍💻 About Me
-
-Innovative undergraduate software developer with a strong foundation in Information Technology. Proficient in Next-js, MERN stack, Java, HTML, CSS, JS, MS SQL, Python, C, C++, and Figma. Known for creative problem-solving. leadership, and effective project management. Skilled in teamwork, time management, and critical thinking. Seeking opportunities to leverage skills and knowledge in a dynamic, challenging software engineering environment.
+</div>
+<br>
 
 ---
 
@@ -62,56 +71,20 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshamalvishwajith&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=harshamalvishwajith&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshamalvishwajith&theme=dark&hide_border=false" /> 
+</td>
 
-</div>
+<td width="50%" align="center">
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshamalvishwajith&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harshamalvishwajith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://harshamal.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshamal-vishwajith)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
+  </td>
+</tr>
+</table>
 
-</div>
-
-### 🌟 Featured Projects
-
-<div align="center">
-  
-<a href="https://github.com/harshamalvishwajith/course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=course&theme=radical" />
-</a>
-
-<a href="https://github.com/harshamalvishwajith/myportfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=myportfolio&theme=radical" />
-</a>
-
-<a href="https://github.com/harshamalvishwajith/BookReviewWebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=BookReviewWebApp&theme=radical" />
-</a>
-
-<a href="https://github.com/harshamalvishwajith/ccmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=ccmm&theme=radical" />
-</a>
-
-</div>
-
-### 💼 Open to Work!
-
-- 🔭 I'm currently seeking opportunities in Full-Stack Development  
-- 👯 Looking to collaborate on exciting projects  
-- 💬 Ask me about Full-Stack Development and Software Engineering  
-- 📫 How to reach me: [WhatsApp](https://wa.me/94766583229)  
-
----
-⭐️ From [harshamalvishwajith](https://github.com/harshamalvishwajith)
