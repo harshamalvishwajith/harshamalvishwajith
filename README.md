@@ -24,11 +24,9 @@
 
 ---
 
-## 🔧 Tech Arsenal
-
 <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,kotlin,js,ts,nextjs,react,html,tailwind,css,nodejs,dotnet,express,mongodb,mysql,idea,vscode,visualstudio,eclipse,androidstudio,git,postman,ps,ai,figma" />
 
-## 📊 GitHub Analytics
+---
 
 <table align="center">
 <tr border="none">
