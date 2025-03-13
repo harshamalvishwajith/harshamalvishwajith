@@ -4,11 +4,11 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergraduate+Software+Engineer;3rd+Year+Student+at+SLIIT)](https://harshamal.me)
 
-  [![Git](https://img.shields.io/github/followers/it22219916?label=Follow&style=social)](https://github.com/it22219916)
+  [![Git](https://img.shields.io/github/followers/harshamalvishwajith?label=Follow&style=social)](https://github.com/harshamalvishwajith)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshamal-vishwajith/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
   
-  <img src="https://komarev.com/ghpvc/?username=it22219916&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harshamalvishwajith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 
@@ -64,13 +64,13 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 <div align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=it22219916&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshamalvishwajith&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22219916&layout=compact&theme=radical" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshamalvishwajith&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -88,20 +88,20 @@ Innovative undergraduate software developer with a strong foundation in Informat
 
 <div align="center">
   
-<a href="https://github.com/it22219916/course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=course&theme=radical" />
+<a href="https://github.com/harshamalvishwajith/course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=course&theme=radical" />
 </a>
 
-<a href="https://github.com/it22219916/myportfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=myportfolio&theme=radical" />
+<a href="https://github.com/harshamalvishwajith/myportfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=myportfolio&theme=radical" />
 </a>
 
-<a href="https://github.com/it22219916/BookReviewWebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=BookReviewWebApp&theme=radical" />
+<a href="https://github.com/harshamalvishwajith/BookReviewWebApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=BookReviewWebApp&theme=radical" />
 </a>
 
-<a href="https://github.com/it22219916/ccmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=it22219916&repo=ccmm&theme=radical" />
+<a href="https://github.com/harshamalvishwajith/ccmm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshamalvishwajith&repo=ccmm&theme=radical" />
 </a>
 
 </div>
@@ -114,4 +114,4 @@ Innovative undergraduate software developer with a strong foundation in Informat
 - 📫 How to reach me: [WhatsApp](https://wa.me/94766583229)  
 
 ---
-⭐️ From [it22219916](https://github.com/it22219916)
+⭐️ From [harshamalvishwajith](https://github.com/harshamalvishwajith)
