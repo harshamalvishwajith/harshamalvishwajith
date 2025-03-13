@@ -6,17 +6,30 @@
 
 ### 💼 Open to Work!
 
-- 🔭 I'm currently seeking opportunities in Full-Stack Development  
-- 👯 Looking to collaborate on exciting projects  
+<br>
+
+- 🔭 I'm currently seeking opportunities in Full-Stack Development 
+
+<br>
+
+- 👯 Looking to collaborate on exciting projects
+
+<br>
+  
 - 💬 Ask me about Full-Stack Development and Software Engineering  
-- 📫 Get to know me: [harshamal.me](https://harshamal.me)
+
+<br>
+
+- 📫 Get to know me: ***[harshamal.me](https://harshamal.me)***
+
+<br>
+
 
 <div align="center">
- 
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://harshamal.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshamal-vishwajith)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshamalvishwajith@gmail.com)
+<a href="mailto:harshamalvishwajith@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/harshamal-vishwajith"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="https://www.instagram.com/harsha___vish?igsh=OWN5eWc4ZDk2YjNm"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 
