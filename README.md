@@ -25,11 +25,11 @@
 <br>
 
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
 
-<a href="mailto:harshamalvishwajith@gmail.com" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/harshamal-vishwajith" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
-<a href="https://www.instagram.com/harsha___vish?igsh=OWN5eWc4ZDk2YjNm" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:harshamalvishwajith@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/harshamal-vishwajith"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="https://www.instagram.com/harsha___vish?igsh=OWN5eWc4ZDk2YjNm"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 
