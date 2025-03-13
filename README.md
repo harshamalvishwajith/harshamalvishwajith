@@ -25,7 +25,7 @@
 <br>
 
 
-<div align="center" style="display: flex; gap: 10px;">
+<div>
 
 <a href="mailto:harshamalvishwajith@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/harshamal-vishwajith"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
