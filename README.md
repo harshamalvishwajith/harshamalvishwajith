@@ -27,9 +27,9 @@
 
 <div align="center">
 
-<a href="mailto:harshamalvishwajith@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/harshamal-vishwajith"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
-<a href="https://www.instagram.com/harsha___vish?igsh=OWN5eWc4ZDk2YjNm"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:harshamalvishwajith@gmail.com" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/harshamal-vishwajith" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="https://www.instagram.com/harsha___vish?igsh=OWN5eWc4ZDk2YjNm" style="padding:5px; margin:5px;"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,kotlin,js,ts,nextjs,react,html,tailwind,css,nodejs,dotnet,express,mongodb,mysql,idea,vscode,visualstudio,eclipse,androidstudio,git,postman,ps,ai,figma" />
+<a href="https://harshamal.me/about"><img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,kotlin,js,ts,nextjs,react,html,tailwind,css,nodejs,dotnet,express,mongodb,mysql,idea,vscode,visualstudio,eclipse,androidstudio,git,postman,ps,ai,figma" /></a>
 
 ---
 
